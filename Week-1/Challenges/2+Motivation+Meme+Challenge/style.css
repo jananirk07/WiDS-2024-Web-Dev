@@ -1,0 +1,21 @@
+body{
+  background-color:black;
+}
+.all-elements{
+  width:50%;
+  margin-left:25%;
+}
+.req-pic{
+  width:100%;
+  border:5px solid white;
+}
+.heading{
+  color:white;
+  font-family:"Libre Baskerville", serif;
+  text-align:center;
+}
+.quote{
+  color:white;
+  font-family:"Libre Baskerville", serif;
+  text-align:center
+}
