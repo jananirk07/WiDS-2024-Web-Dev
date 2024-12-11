@@ -6,19 +6,29 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 
 ### 1. Python Fundamentals
 
+> [!NOTE]  
+> If you have previous Python experience, feel free to skip this part. If you want a quick glimpse of Python, this is for you.
+
 - **Objective:** Understand Python syntax, data types, and core structures, and learn to define functions and organize code using Python modules.
 - **Resources:**
-  - w
+  - [Corey Schafer - Python Programming Beginner Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&si=Sh-D5EglKK9pBIc-)
+  - 
 - 
 
 ### 2. Web Development with Flask
 
 - **Objective:** Learn to set up a Flask web application, manage routes, use templates, handle forms, structure projects, implement sessions, and deploy to production.
+- **Resources:**
+  - [Corey Schafer - Flask Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&si=tFSi6Qafud1w2wNk)
+- **Additional **
+  - m
 
 
 ### 3. Assignment
-- **Day 1**: Introduction to Python: syntax, data types, and basic structures
-- **Day 2**: Understanding functions and modules in Python
+
+- **Task:**
+
+---
 - **Day 3**: Setting up Flask: building your first web application
 - **Day 4**: Routing and templates in Flask
 - **Day 5**: Project: Create a personal portfolio website using Flask
