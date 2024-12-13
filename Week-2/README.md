@@ -12,8 +12,10 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 - **Objective:** Understand Python syntax, data types, and core structures, and learn to define functions and organize code using Python modules.
 - **Resources:**
   - [Corey Schafer - Python Programming Beginner Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&si=Sh-D5EglKK9pBIc-)
-  - 
-- 
+  - [Corey Schafer - Python OOP Tutorials - Working with Classes](https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&si=EZRhuwYPzND7VoB3)
+- **Additional Reading:**
+  - [Python Documentation](https://docs.python.org/3/tutorial/index.html)
+  - [Mark Lutz Book - Chapters 8, 11-14, 16-18](../Resources/Mark-Lutz-Book.pdf)
 
 ### 2. Web Development with Flask
 
@@ -26,6 +28,11 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 
 ### 3. Assignment
 
+- **Challenges:**
+  - Calculator
+  - Blackjack
+  - Turtle Racing
+  - 
 - **Task:**
 
 ---
