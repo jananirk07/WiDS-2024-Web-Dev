@@ -22,17 +22,21 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 - **Objective:** Learn to set up a Flask web application, manage routes, use templates, handle forms, structure projects, implement sessions, and deploy to production.
 - **Resources:**
   - [Corey Schafer - Flask Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&si=tFSi6Qafud1w2wNk)
-- **Additional **
-  - m
-
+  - [CS50x Flask Lecture](https://www.youtube.com/watch?v=-aqUek49iL8)
+  - [FreeCodeCamp - Flask Course](https://youtu.be/Qr4QMBUPxWo?si=qvZ3hn5IDWI1r3kX)
+- **Additional Reading**
+  - [Flask Documentation](https://flask.palletsprojects.com/en/stable/)
+  - [Flask Textbook](../Resources/flask-book.pdf)
 
 ### 3. Assignment
 
 - **Challenges:**
+  - Rock-Paper-Scissor
   - Calculator
   - Blackjack
   - Turtle Racing
-  - 
+  - Random Walker
+  - Flask Trainer
 - **Task:**
 
 ---

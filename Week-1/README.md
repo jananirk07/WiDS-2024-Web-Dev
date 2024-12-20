@@ -27,6 +27,7 @@ Welcome to the first week of the Web Development program! Since we’re just get
 
 - **Task 1:** Concept Review and Q&A session (Quiz link will be uploaded on Monday, 16th December 2024).
 - **Task 2:** Set up your development environment and create a multi-page website using HTML, CSS, and JavaScript.
+- **Task 3:** Go through the day to day to plan . you are supposed to do design the tutorial site with the start files,follow the instructions written in there.
 
 Resources will be uploaded as the course progresses.
 
