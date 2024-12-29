@@ -40,10 +40,5 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 - **Task:**
 
 ---
-- **Day 3**: Setting up Flask: building your first web application
-- **Day 4**: Routing and templates in Flask
-- **Day 5**: Project: Create a personal portfolio website using Flask
-- **Day 6**: Review and feedback session on the portfolio website
-- **Day 7**: Assignment: Enhance your portfolio with additional features (e.g., contact form)
 
 Resources will be uploaded as the course progresses.
